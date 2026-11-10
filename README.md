@@ -3,7 +3,7 @@
 Every asset of OmniBlade's `msvcwin9x` release: the Visual C++ 6.0, 6.0 SP3 to SP6 (`msvc6.3` to `msvc6.6`, `msvc6.5pp`) and 7.0 repacks.
 
 Release `2026-11-10` holds the files byte for byte as their upstream served them,
-so every sha256 below is the one recompile-toolchains and rebrew pin.
+so each sha256 below is the upstream file's; the "Pinned by" column names\nwhich recompile-toolchains or rebrew profiles pin it.
 
 | Asset | Upstream URL | sha256 | Bytes | Pinned by |
 |---|---|---|---|---|
